@@ -98,4 +98,4 @@ Written versions of content are under open development here:
 
 Exciting announcement about food!
 
-changes from GitHub
+changes from GitHub bla bla
