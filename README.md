@@ -103,4 +103,7 @@ A local change.
 
 changes from GitHub bla bla
 
-Wingardium Leviosaaaa
+
+Wingardium Leviosaaaa(Hermione´s version)
+
+Win-GAR-dium Leviosa (Ron Version)
